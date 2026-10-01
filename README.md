@@ -40,13 +40,13 @@ cd Django-Project
 
 
 Project Structure
-
 Django-Project/
-|---- manage.py
-|---- my_Tennis_club  # main project setting
-|---- members/        # members app
-|---- requirements.txt 
-|_____README.md
+├──  manage.py
+├──  my_Tennis_club  # main project setting
+├──  members/        # members app
+├──  requirements.txt 
+└── README.md
+
 
 Author
 Adeniji Michael-@adeniji471
